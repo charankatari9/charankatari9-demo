@@ -1,4 +1,4 @@
 # charankatari9-demo
 This is my first Git Repository.
 <br>
-Author - Katari Charan
+Author - Katari Charan Teja
